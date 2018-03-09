@@ -1,0 +1,1 @@
+{"dependencies":[{"name":"./other.css","media":"","loc":{"line":1,"column":1}},{"name":"_css_loader"}],"generated":{"css":"\r\n","js":"\n        var reloadCSS = require('_css_loader');\n        module.hot.dispose(reloadCSS);\n        module.hot.accept(reloadCSS);\n      "},"hash":"7aaa8216588c89e16efae6ac638b7ec1","cacheData":{}}
